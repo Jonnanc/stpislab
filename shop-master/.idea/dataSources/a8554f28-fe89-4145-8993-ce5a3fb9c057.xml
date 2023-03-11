@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="ishop2@localhost">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.45">
+    <root id="1"/>
+    <schema id="2" parent="1" name="ishop2">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="angularjs"/>
+    <schema id="4" parent="1" name="cake"/>
+    <schema id="5" parent="1" name="cake_mini"/>
+    <schema id="6" parent="1" name="catalog"/>
+    <schema id="7" parent="1" name="dle"/>
+    <schema id="8" parent="1" name="fw"/>
+    <schema id="9" parent="1" name="information_schema"/>
+    <schema id="10" parent="1" name="mysql"/>
+    <schema id="11" parent="1" name="oc"/>
+    <schema id="12" parent="1" name="oc21"/>
+    <schema id="13" parent="1" name="ocstore"/>
+    <schema id="14" parent="1" name="opencart"/>
+    <schema id="15" parent="1" name="performance_schema"/>
+    <schema id="16" parent="1" name="test"/>
+    <schema id="17" parent="1" name="wordpress"/>
+    <schema id="18" parent="1" name="world"/>
+    <schema id="19" parent="1" name="yii2_loc"/>
+    <schema id="20" parent="1" name="yii2_mini"/>
+  </database-model>
+</dataSource>
